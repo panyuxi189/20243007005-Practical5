@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="municipalities_array">
+
+        <item>
+            Beijing is the capital of the People\'s Republic of China and one of China\'s four municipalities directly under the central government. Located in northern China, it serves as the country\'s political, cultural, international communication, and scientific and technological innovation centre. The municipality has 16 districts and combines a long history with modern urban development. Famous landmarks include the Forbidden City, the Temple of Heaven, and sections of the Great Wall. Beijing is also home to major universities, research institutes, technology companies, museums, and cultural institutions, making it an important centre for education, innovation, tourism, and public administration.
+        </item>
+
+        <item>
+            Shanghai is a municipality directly under China\'s central government and a major international metropolis in eastern China. It lies at the estuary of the Yangtze River and forms part of the Yangtze River Delta. The city has 16 districts and is one of China\'s leading centres for finance, trade, shipping, technology, and international business. Shanghai combines historic areas such as the Bund with modern districts such as Pudong and Lujiazui. Its extensive transport network, ports, airports, universities, cultural venues, and commercial districts support its role as a highly connected and influential city in China and the wider Asia-Pacific region.
+        </item>
+
+        <item>
+            Chongqing is a municipality directly under China\'s central government and is located in southwest China on the upper reaches of the Yangtze River. Covering about 82,400 square kilometres, it has a large administrative area that includes dense urban districts, mountains, rivers, towns, and rural communities. The city is known for its steep terrain, bridges, riverside skyline, and distinctive urban form. Chongqing is an important transport, manufacturing, and logistics centre in western China, linking inland regions with the Yangtze River economic corridor. It is also widely known for local cuisine, especially hot pot, and for its rich historical and cultural heritage.
+        </item>
+
+        <item>
+            Tianjin is a municipality directly under China\'s central government in northern China. Located near Beijing and on the coast of the Bohai Sea, it occupies an important position in the Beijing-Tianjin-Hebei region. Tianjin has 16 districts and includes the Binhai New Area, a major centre for industry, trade, logistics, and innovation. Tianjin Port is an important port in northern China and connects the region with international shipping routes. The Haihe River runs through the urban area, where modern development stands alongside historic architecture. Tianjin also has a strong industrial, commercial, educational, and transportation base.
+        </item>
+
+    </string-array>
+
+</resources>
